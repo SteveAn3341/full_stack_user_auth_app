@@ -1,0 +1,25 @@
+                                  List of databases
+       Name       |   Owner   | Encoding | Collate |  Ctype  |   Access privileges   
+------------------+-----------+----------+---------+---------+-----------------------
+ auth_model_db    | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ basic_db         | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ blueapron        | postgres  | UTF8     | C.UTF-8 | C.UTF-8 | 
+ car_db           | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ chicago_db       | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ class_roster     | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ class_rosters    | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ library          | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ postgres         | postgres  | UTF8     | C.UTF-8 | C.UTF-8 | 
+ school           | postgres  | UTF8     | C.UTF-8 | C.UTF-8 | 
+ school_project   | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ shooping_cart_db | postgres  | UTF8     | C.UTF-8 | C.UTF-8 | 
+ shopping         | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ shopping_cart_db | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ students_db      | steve3341 | UTF8     | C.UTF-8 | C.UTF-8 | 
+ template0        | postgres  | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +
+                  |           |          |         |         | postgres=CTc/postgres
+ template1        | postgres  | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +
+                  |           |          |         |         | postgres=CTc/postgres
+ waterdepartment  | postgres  | UTF8     | C.UTF-8 | C.UTF-8 | 
+(18 rows)
+
